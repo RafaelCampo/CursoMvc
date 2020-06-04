@@ -19,7 +19,7 @@ namespace EP.CursoMvc.Infra.Data.Repository
         protected Repository(CursoMvcContext db)
         {
             Db = db;
-            DbSet = Db.Set<TEntity>(); //rafael
+            DbSet = Db.Set<TEntity>(); //rafaelhfgh
         }
         public virtual TEntity Adicionar(TEntity obj)
         {
