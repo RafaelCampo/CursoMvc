@@ -1,0 +1,13 @@
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EP.CursoMvc.Domain.dll.config
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EP.CursoMvc.Domain.dll
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EP.CursoMvc.Domain.pdb
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\DomainValidation.dll
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EntityFramework.dll
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EntityFramework.xml
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.csprojAssemblyReference.cache
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.csproj.CopyComplete
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.dll
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.pdb
+C:\Users\rafca\source\repos\CursoMvc\src\EP.CursoMvc.Domain\obj\Release\EP.CursoMvc.Domain.csproj.CoreCompileInputs.cache
